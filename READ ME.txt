@@ -1,0 +1,4 @@
+Keep the 5 data files in the same folder as convex.ipynb and regress.ipynb
+
+run the convex.ipynb and regress.ipynb files seperately
+
